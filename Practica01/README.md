@@ -21,16 +21,15 @@ establecido como default.
 Sitios consultados para la elaboración de este script
 
 (1) Kai Yuan, Extracting a Substring in Bash,
-[](https://www.baeldung.com/linux/bash-substring)
+<https://www.baeldung.com/linux/bash-substring>
 
 (2) How to convert a string from uppercase to lowercase in Bash?,
-[](https://stackoverflow.com/questions/11392189/how-to-convert-a-string-from-uppercase-to-lowercase-in-bash#11392248)
+<https://stackoverflow.com/questions/11392189/how-to-convert-a-string-from-uppercase-to-lowercase-in-bash#11392248>
 
 (3) Change desktop wallpaper from terminal,
-[](https://unix.stackexchange.com/questions/59653/change-desktop-wallpaper-from-terminal)
+<https://unix.stackexchange.com/questions/59653/change-desktop-wallpaper-from-terminal>
 
 (4) is there a way to open browser using terminal?,
-[](https://askubuntu.com/questions/682542/is-there-a-way-to-open-browser-using-terminal)
+<https://askubuntu.com/questions/682542/is-there-a-way-to-open-browser-using-terminal>
 
-
-Imagen Tomada de [](https://tec.com.pe/)
+Imagen Tomada de <https://tec.com.pe/>
